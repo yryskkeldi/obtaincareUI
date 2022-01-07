@@ -1,0 +1,34 @@
+[WARN ] 2022-01-07 11:49:09.608 [main] Driver - Starting Chromedriver
+[INFO ] 2022-01-07 11:49:14.469 [main] Driver - Chrome driver started successfully
+[INFO ] 2022-01-07 11:49:23.521 [main] Helper - Clicking the [[ChromeDriver: chrome on WINDOWS (88902d81b7799f1b9d402587a878bf60)] -> xpath: /html/body/div[1]/div[1]/div[2]/div/div[2]/div/div/div[2]/div/div[2]/div/div[1]/div/div/button/span]
+[INFO ] 2022-01-07 11:49:23.525 [main] Helper - Waiting for element to be displayed [[ChromeDriver: chrome on WINDOWS (88902d81b7799f1b9d402587a878bf60)] -> xpath: /html/body/div[1]/div[1]/div[2]/div/div[2]/div/div/div[2]/div/div[2]/div/div[1]/div/div/button/span]
+[INFO ] 2022-01-07 11:49:23.561 [main] Helper - Element is displayed [[ChromeDriver: chrome on WINDOWS (88902d81b7799f1b9d402587a878bf60)] -> xpath: /html/body/div[1]/div[1]/div[2]/div/div[2]/div/div/div[2]/div/div[2]/div/div[1]/div/div/button/span]
+[INFO ] 2022-01-07 11:49:23.577 [main] Helper - Waiting for element to be clickable
+[INFO ] 2022-01-07 11:49:23.599 [main] Helper - Element is clickable
+[INFO ] 2022-01-07 11:49:26.712 [main] Helper - Clicking the [[ChromeDriver: chrome on WINDOWS (88902d81b7799f1b9d402587a878bf60)] -> xpath: /html/body/div[1]/div[1]/div[2]/div/div[2]/div/div/div[2]/div/div[2]/div/div[1]/div/div/button/span]
+[INFO ] 2022-01-07 11:49:26.716 [main] Helper - Waiting for element to be displayed [[ChromeDriver: chrome on WINDOWS (88902d81b7799f1b9d402587a878bf60)] -> xpath: /html/body/div[1]/div[1]/div[2]/div/div[2]/div/div/div[2]/div/div[2]/div/div[1]/div/div/button/span]
+[INFO ] 2022-01-07 11:49:26.732 [main] Helper - Element is displayed [[ChromeDriver: chrome on WINDOWS (88902d81b7799f1b9d402587a878bf60)] -> xpath: /html/body/div[1]/div[1]/div[2]/div/div[2]/div/div/div[2]/div/div[2]/div/div[1]/div/div/button/span]
+[INFO ] 2022-01-07 11:49:26.743 [main] Helper - Waiting for element to be clickable
+[INFO ] 2022-01-07 11:49:26.763 [main] Helper - Element is clickable
+[INFO ] 2022-01-07 11:49:31.154 [main] Helper - Clicking the [[ChromeDriver: chrome on WINDOWS (88902d81b7799f1b9d402587a878bf60)] -> xpath: /html/body/reach-portal/div[3]/div/div/div/div/div[2]/button[1]]
+[INFO ] 2022-01-07 11:49:31.159 [main] Helper - Waiting for element to be displayed [[ChromeDriver: chrome on WINDOWS (88902d81b7799f1b9d402587a878bf60)] -> xpath: /html/body/reach-portal/div[3]/div/div/div/div/div[2]/button[1]]
+[INFO ] 2022-01-07 11:49:31.179 [main] Helper - Element is displayed [[ChromeDriver: chrome on WINDOWS (88902d81b7799f1b9d402587a878bf60)] -> xpath: /html/body/reach-portal/div[3]/div/div/div/div/div[2]/button[1]]
+[INFO ] 2022-01-07 11:49:31.192 [main] Helper - Waiting for element to be clickable
+[INFO ] 2022-01-07 11:49:31.212 [main] Helper - Element is clickable
+[INFO ] 2022-01-07 11:49:31.260 [main] Helper - Clicking the [[ChromeDriver: chrome on WINDOWS (88902d81b7799f1b9d402587a878bf60)] -> xpath: //div[@data-user-auth='false']//a[2]]
+[INFO ] 2022-01-07 11:49:31.264 [main] Helper - Waiting for element to be displayed [[ChromeDriver: chrome on WINDOWS (88902d81b7799f1b9d402587a878bf60)] -> xpath: //div[@data-user-auth='false']//a[2]]
+[INFO ] 2022-01-07 11:49:31.279 [main] Helper - Element is displayed [[ChromeDriver: chrome on WINDOWS (88902d81b7799f1b9d402587a878bf60)] -> xpath: //div[@data-user-auth='false']//a[2]]
+[INFO ] 2022-01-07 11:49:31.289 [main] Helper - Waiting for element to be clickable
+[INFO ] 2022-01-07 11:49:31.307 [main] Helper - Element is clickable
+[INFO ] 2022-01-07 11:49:33.506 [main] Helper - Trying to get text value
+[INFO ] 2022-01-07 11:49:33.510 [main] Helper - Waiting for element to be displayed [[ChromeDriver: chrome on WINDOWS (88902d81b7799f1b9d402587a878bf60)] -> xpath: //a[normalize-space()='Sign up as a user']]
+[INFO ] 2022-01-07 11:49:33.524 [main] Helper - Element is displayed [[ChromeDriver: chrome on WINDOWS (88902d81b7799f1b9d402587a878bf60)] -> xpath: //a[normalize-space()='Sign up as a user']]
+[INFO ] 2022-01-07 11:49:33.538 [main] Helper - Trying to get text value
+[INFO ] 2022-01-07 11:49:33.541 [main] Helper - Waiting for element to be displayed [[ChromeDriver: chrome on WINDOWS (88902d81b7799f1b9d402587a878bf60)] -> xpath: //a[normalize-space()='Sign up as a user']]
+[INFO ] 2022-01-07 11:49:33.555 [main] Helper - Element is displayed [[ChromeDriver: chrome on WINDOWS (88902d81b7799f1b9d402587a878bf60)] -> xpath: //a[normalize-space()='Sign up as a user']]
+[INFO ] 2022-01-07 11:49:33.830 [main] Helper - Clicking the [[ChromeDriver: chrome on WINDOWS (88902d81b7799f1b9d402587a878bf60)] -> xpath: //label[normalize-space()='Accept Terms']]
+[INFO ] 2022-01-07 11:49:33.833 [main] Helper - Waiting for element to be displayed [[ChromeDriver: chrome on WINDOWS (88902d81b7799f1b9d402587a878bf60)] -> xpath: //label[normalize-space()='Accept Terms']]
+[INFO ] 2022-01-07 11:49:33.848 [main] Helper - Element is displayed [[ChromeDriver: chrome on WINDOWS (88902d81b7799f1b9d402587a878bf60)] -> xpath: //label[normalize-space()='Accept Terms']]
+[INFO ] 2022-01-07 11:49:33.857 [main] Helper - Waiting for element to be clickable
+[INFO ] 2022-01-07 11:49:33.874 [main] Helper - Element is clickable
+[INFO ] 2022-01-07 11:49:42.729 [main] Driver - Driver is closed

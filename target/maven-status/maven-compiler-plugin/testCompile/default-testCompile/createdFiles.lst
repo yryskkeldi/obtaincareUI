@@ -1,0 +1,5 @@
+UI\runners\SmokeRunner.class
+UI\runners\RegressionRunner.class
+UI\stepDefinitions\Hooks.class
+UI\stepDefinitions\SignUpSteps.class
+UI\stepDefinitions\LoginSteps.class
